@@ -34,6 +34,10 @@ book = game.Item("book")
 book.set_description("A really good book entitled 'Knitting for dummies'")
 dining_hall.set_item(book)
 
+print("Hello! It is the 'walker' game. Fir winning you have to kill all the characters \
+that are in the game. Also you have this function: 'take', 'fight', 'talk', 'north', 'south', \
+'east', 'west' and 'q'. 'q' is for ending the process of the game.")
+
 current_room = kitchen
 backpack = []
 
