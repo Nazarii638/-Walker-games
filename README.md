@@ -8,4 +8,4 @@ After execution we can see the interface and the description of the game:
 
 There is all the information that you need for playing in the description. If you follow it you can correctly play the game.
 
-In the top of that program you can see the module that I imported. And with it I can create different objects for the game because it is for creating the objects in the game. There are certain classes. Some of them has the inheritance from another ones.
+In the top of that program you can see the module that I imported. And with it I can create different objects for the game because it has this appointment. There are certain classes. Some of them has the inheritance from another ones.
